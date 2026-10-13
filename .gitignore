@@ -16,3 +16,6 @@ $RECYCLE.BIN/
 .DS_Store
 *.tmp
 *.log
+
+# ---- 工具 ----
+.workbuddy/
