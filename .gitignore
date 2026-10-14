@@ -23,3 +23,16 @@ $RECYCLE.BIN/
 # ---- PDF 渲染中间产物 ----
 _render_tmp.html
 _check.png
+
+# ---- 本地资料，不入库 ----
+# 仓库（GitHub）只保留 README.md 与 中文翻译.md / 中文翻译.pdf，以下文件仅存本地
+AI基础知识与工具应用_Checklist.md
+AI基础知识与工具应用_Checklist_EN.md
+AI基础知识与工具应用_Checklist.pdf
+CFR-2025-title45-vol1-sec92-11.pdf
+CFR-2025-title45-vol1-sec92-11_中文翻译.md
+CFR-2025-title45-vol1-sec92-11_中文翻译.pdf
+EnhancedNationalCLASStandards_Revised_June2025.pdf
+EnhancedNationalCLASStandards_中文翻译.md
+EnhancedNationalCLASStandards_中文翻译.pdf
+MinerU_markdown_*.md
