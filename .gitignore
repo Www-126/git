@@ -1,4 +1,25 @@
-# Agent 本地工作数据（记忆 / 临时文件），不纳入版本控制
+# ---- Windows ----
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- 系统 / 临时 ----
+.DS_Store
+*.tmp
+*.log
+
+# ---- 工具 ----
 .workbuddy/
+
+# ---- PDF 渲染中间产物 ----
 _render_tmp.html
 _check.png
